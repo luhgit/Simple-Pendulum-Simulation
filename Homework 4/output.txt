@@ -1,0 +1,494 @@
+
+Starting simulation of Delivery Drones...
+
+Fetching list of Tasks (Parcels)...
+
+Task Queue acquired with a total of 200 Tasks.
+
+Fetching the available Drones List...
+
+Drones List is acquired with a total of 20 drones.
+
+Starting Delivery Process...
+
+Starting Drone with ID: Drone-1
+
+Starting Drone with ID: Drone-2
+
+Starting Drone with ID: Drone-3
+
+Starting Drone with ID: Drone-4
+
+Starting Drone with ID: Drone-5
+
+Starting Drone with ID: Drone-6
+
+Starting Drone with ID: Drone-7
+
+Starting Drone with ID: Drone-8
+
+Starting Drone with ID: Drone-9
+
+Starting Drone with ID: Drone-10
+
+Starting Drone with ID: Drone-11
+
+Starting Drone with ID: Drone-12
+
+Starting Drone with ID: Drone-13
+
+Starting Drone with ID: Drone-14
+
+Starting Drone with ID: Drone-15
+
+Starting Drone with ID: Drone-16
+
+Starting Drone with ID: Drone-17
+
+Starting Drone with ID: Drone-18
+
+Starting Drone with ID: Drone-19
+
+Starting Drone with ID: Drone-20
+
+Drone-3 is delivering the parcel Parcel-0 from Stan Nichols to Betty Martin having weight 1.081 KG and distance 9.89 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-1 from Mary Schlegel to Helen Boudreaux having weight 3.503 KG and distance 22.69 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-2 from William Snider to Martin Jordan having weight 0.747 KG and distance 22.58 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-3 from Cynthia Mccabe to Richard Ward having weight 1.286 KG and distance 33.1 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-4 from Wesley Hood to Valarie Silverwood having weight 3.229 KG and distance 29.34 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-5 from James Perea to David Gill having weight 3.837 KG and distance 19.03 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-6 from Jack Tinkle to Lila Wilder having weight 0.714 KG and distance 32.05 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-7 from Kenneth Sauvageau to Elsie Montgomery having weight 3.03 KG and distance 21.12 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-8 from Wanda Tipton to Bessie Alexander having weight 2.989 KG and distance 23.51 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-9 from Tiffany Sizer to Eric Ireland having weight 2.58 KG and distance 11.72 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-10 from Katherine Calloway to Genaro Talmadge having weight 1.063 KG and distance 25.29 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-11 from Mark Marbley to Lois Fernandez having weight 2.732 KG and distance 23.9 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-12 from Jason Witherspoon to Monica Mason having weight 3.444 KG and distance 25.19 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-13 from Jenny Bahr to Peggy Trejo having weight 1.303 KG and distance 26.1 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-14 from Helen Bauer to David Holt having weight 4.981 KG and distance 4.37 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-15 from Julia Koenitzer to Robert Hixon having weight 0.575 KG and distance 19.92 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-16 from Zachary Perrin to Russell Pelton having weight 2.853 KG and distance 17.55 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-17 from Duane Steffel to Betty Fay having weight 4.294 KG and distance 23.6 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-18 from Marvin Hague to Edmond Wood having weight 4.996 KG and distance 17.86 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-19 from Mary Frizell to Julie Alvarez having weight 3.35 KG and distance 4.59 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-20 from Albert Sheley to Geoffrey Leanen having weight 3.41 KG and distance 18.33 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-21 from Stephen Eplin to Antonietta Gillette having weight 1.719 KG and distance 28.34 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-22 from Mariam Clifton to Brandon Howlin having weight 2.914 KG and distance 3.34 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-23 from Roger Wright to Everett Bloom having weight 3.143 KG and distance 7.08 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-24 from Justin Baker to Pamela Bunton having weight 0.718 KG and distance 1.61 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-25 from Aaron Cole to Mary Ronson having weight 4.233 KG and distance 6.18 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-26 from William Schoch to Anita Harris having weight 1.814 KG and distance 30.55 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-27 from Stephen Cupp to Marilyn Petty having weight 3.2 KG and distance 29.4 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-28 from Brenda Smith to Dorothy Outlaw having weight 4.336 KG and distance 34.79 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-29 from Joyce Hammond to Gabrielle Dietz having weight 4.517 KG and distance 24.16 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-30 from Tommie Fletcher to James Wickus having weight 3.277 KG and distance 13.25 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-31 from James Brown to Kathleen Patten having weight 2.169 KG and distance 13.81 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-32 from Andrew Brown to Janice Dean having weight 4.78 KG and distance 7.58 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-33 from Shantell Ware to Janice Bowens having weight 2.956 KG and distance 1.53 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-34 from Juanita Powell to Evelyn Vega having weight 1.671 KG and distance 21.25 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-35 from Kenneth Lopez to William Jackson having weight 3.18 KG and distance 11.15 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-36 from Ruth Calaf to Catherine Dunham having weight 0.664 KG and distance 16.86 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-37 from Brian Jackson to Jeffrey Dewitt having weight 3.199 KG and distance 9.3 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-38 from Dorothy Morgen to Sharon Tipka having weight 2.965 KG and distance 33.31 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-39 from Dusty Kalkman to Carolyn Ferrara having weight 1.245 KG and distance 32.12 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-40 from James Loftin to Michael Johnson having weight 4.071 KG and distance 23.33 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-41 from Victoria Kassing to Rowena Webb having weight 1.665 KG and distance 6.37 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-42 from John Muller to Michael Messer having weight 2.373 KG and distance 10.22 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-43 from Clara Walz to Barbara Hill having weight 4.301 KG and distance 25.7 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-44 from Sadie Motley to Renee Smith having weight 4.085 KG and distance 31.88 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-45 from Wendy Pertsovsky to Shirley Taylor having weight 3.186 KG and distance 19.95 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-46 from Helen Williams to Melinda Davis having weight 2.406 KG and distance 3.64 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-47 from Terry Cummins to Carol Child having weight 1.069 KG and distance 24.91 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-48 from Walter Pak to Bruce Ogletree having weight 4.911 KG and distance 30.33 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-49 from Nikia Owens to Jeanette Propst having weight 3.601 KG and distance 29.56 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-50 from David Garoutte to Scott Liew having weight 1.275 KG and distance 27.3 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-51 from Pablo Adams to Barbara Leonard having weight 4.425 KG and distance 5.93 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-52 from Nancy Dieguez to Allison Hendricks having weight 4.392 KG and distance 32.89 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-53 from Sallie Sabol to Lester Ohara having weight 3.795 KG and distance 29.03 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-54 from Horace Steel to Julie Daniels having weight 3.846 KG and distance 15.71 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-55 from Jennifer Worstell to Stephen Sieberg having weight 2.913 KG and distance 11.02 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-56 from Charles Groome to Jeffrey Hicks having weight 4.267 KG and distance 16.78 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-57 from Jolynn Hostetler to Danny Shrum having weight 3.786 KG and distance 18.77 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-58 from Alicia Corley to Heather Maher having weight 4.384 KG and distance 22.75 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-59 from Chester Clark to Nilsa Doire having weight 0.782 KG and distance 5.39 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-60 from Doris Gibbs to Cindy Lopez having weight 2.424 KG and distance 32.63 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-61 from Carole Albaladejo to Cecile Simons having weight 2.356 KG and distance 6.76 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-62 from Dennis Jock to Cynthia Rutledge having weight 1.773 KG and distance 27.74 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-63 from Priscilla Brinson to Brian Coe having weight 2.129 KG and distance 31.98 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-64 from Ronda Albrecht to Edward Amoroso having weight 4.596 KG and distance 0.56 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-65 from Louise Hathaway to Justin Vassar having weight 2.776 KG and distance 23.75 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-66 from Nancy Leathers to Ray Fields having weight 4.31 KG and distance 24.76 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-67 from Beverly Webb to Edward Wood having weight 2.015 KG and distance 0.79 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-68 from Christopher Hedge to Tracy Jones having weight 2.617 KG and distance 26.6 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-69 from John Walker to Lisa Campbell having weight 3.583 KG and distance 4.23 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-70 from Patricia Warren to Steven Hovis having weight 2.788 KG and distance 31.7 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-71 from Albertha Olson to Rafael Riley having weight 3.615 KG and distance 19.99 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-72 from Evelyn Smith to Judy Schall having weight 1.793 KG and distance 2.23 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-73 from Bernice Grant to Joy Lindsay having weight 4.894 KG and distance 13.91 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-74 from Joe Hanks to Mark Spence having weight 1.05 KG and distance 25.05 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-75 from Donna Thyng to Jonathan Williams having weight 4.953 KG and distance 9.83 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-76 from James Demartino to Juan Wilson having weight 2.285 KG and distance 32.94 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-77 from Jillian Mann to George Coker having weight 3.952 KG and distance 1.62 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-78 from Sally Cannon to Joe Mitchell having weight 1.698 KG and distance 2.46 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-79 from William Malcomb to David Johnson having weight 4.436 KG and distance 31.28 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-80 from David Hall to Lynn Schuster having weight 0.617 KG and distance 19.34 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-81 from Valerie Rhodes to Pedro Mohler having weight 1.422 KG and distance 20.44 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-82 from Jimmie Martinez to Teresa Kling having weight 4.196 KG and distance 22.68 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-83 from Diana Sampson to Joyce Simpson having weight 0.505 KG and distance 31.11 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-84 from Carolina Aceves to Becky Taylor having weight 0.953 KG and distance 3.76 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-85 from Susan Armagost to Adam Tornow having weight 2.104 KG and distance 23.31 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-86 from Anna Stokes to Sarah Jackson having weight 2.466 KG and distance 31.88 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-87 from Rick Webb to Lenora Marsh having weight 3.126 KG and distance 24.6 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-88 from Luke Spader to Scott Anderson having weight 3.934 KG and distance 31.92 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-89 from Antwan Burgess to Frederick Evans having weight 4.78 KG and distance 4.41 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-90 from Herbert Youngman to Marvin Shah having weight 3.078 KG and distance 25.1 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-91 from David Carpenter to Allison Jessee having weight 4.68 KG and distance 24.9 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-92 from Edward Kelly to Donald Bergquist having weight 3.145 KG and distance 14.25 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-93 from Vincent Hadley to Vanessa Thyng having weight 1.2 KG and distance 28.86 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-94 from Bessie Smith to Dennis Lonergan having weight 4.859 KG and distance 33.13 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-95 from Frank Murphy to Robert Mathews having weight 3.162 KG and distance 13.14 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-96 from Latoya Kahrs to Sarah Liberti having weight 2.139 KG and distance 17.65 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-97 from Joseph Padilla to Alice Macina having weight 3.185 KG and distance 5.06 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-98 from Pearl Bell to Liz Wilcoxen having weight 4.424 KG and distance 18.18 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-99 from April Crawford to Peter Hood having weight 1.911 KG and distance 9.5 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-100 from Aurora Davis to John Taylor having weight 4.189 KG and distance 6.53 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-101 from Elizabeth Isbell to Alonzo Ramos having weight 3.649 KG and distance 18.55 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-102 from Minnie Jaramillo to Katherine Samuelson having weight 4.846 KG and distance 30.51 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-103 from Eleanor Martinez to Kevin Trim having weight 4.594 KG and distance 13.33 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-104 from Peter Keenan to George Perris having weight 2.371 KG and distance 19.9 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-105 from Manuel Kemp to Devon Lambert having weight 2.475 KG and distance 19.71 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-106 from James Riddle to Heath Turner having weight 3.552 KG and distance 7.73 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-107 from Terri Mendoza to Theresa Lapp having weight 3.987 KG and distance 22.56 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-108 from Sue Quinn to Margaret Wilson having weight 2.565 KG and distance 18.55 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-109 from Lynn Boyles to Randy Alfaro having weight 0.945 KG and distance 11.89 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-110 from Robert Walker to Shaun Hagins having weight 1.231 KG and distance 6.46 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-111 from Clifford Golden to Paul Moss having weight 1.001 KG and distance 21.56 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-112 from Curt Navarro to Jason Loftin having weight 3.432 KG and distance 25.65 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-113 from Richard Gipson to Rosemary Hefner having weight 2.43 KG and distance 3.91 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-114 from Sara Zimmerman to Derrick Larcom having weight 0.913 KG and distance 13.27 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-115 from David Scott to Harold Dobbs having weight 1.079 KG and distance 15.53 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-116 from Timothy Vice to Richard Cook having weight 1.768 KG and distance 22.48 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-117 from Maryann Dukes to Jose Whetstone having weight 2.415 KG and distance 22.83 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-118 from Christina Justis to Michael Bryant having weight 4.423 KG and distance 23.0 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-119 from Anna Hendler to Dan Revalee having weight 1.776 KG and distance 24.15 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-120 from Mary Martin to Maureen Morgan having weight 4.083 KG and distance 22.89 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-121 from Thomas Valdez to Ernie Smart having weight 2.787 KG and distance 18.03 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-122 from Jessica Farrell to Jerome Jones having weight 1.491 KG and distance 30.64 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-123 from Brad Tolbert to Brandon Brown having weight 3.997 KG and distance 1.64 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-124 from Douglas Benny to Mary Mccue having weight 0.5 KG and distance 7.76 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-125 from Robert Williamson to Michael Littlejohn having weight 2.072 KG and distance 22.81 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-126 from Marilyn Levin to Henry Cohen having weight 3.561 KG and distance 30.01 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-127 from Clifton Garcia to David Hill having weight 4.405 KG and distance 23.22 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-128 from Amanda Green to Bernard Jones having weight 4.387 KG and distance 5.42 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-129 from Laura Koopmans to Drew Dejesus having weight 3.09 KG and distance 11.68 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-130 from Dennis Paneto to Thurman Wright having weight 4.857 KG and distance 8.45 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-131 from Joseph Ovington to Rebecca Saurel having weight 1.002 KG and distance 33.73 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-132 from Everett Hammer to Eula Helm having weight 1.038 KG and distance 13.5 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-133 from David Mays to Willie Cordier having weight 2.783 KG and distance 18.79 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-134 from Tiffany Dodd to William Haggard having weight 2.715 KG and distance 14.52 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-135 from Ima Davis to Nellie Staton having weight 0.872 KG and distance 19.57 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-136 from Maria Sanford to Joseph Claussen having weight 3.068 KG and distance 25.94 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-137 from Pearl Tep to Loretta Fernandez having weight 2.282 KG and distance 1.83 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-138 from Adolfo Hewlett to Laurie Shepard having weight 3.689 KG and distance 16.23 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-139 from Natalie Collins to Edgar Young having weight 0.77 KG and distance 34.52 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-140 from Penny Smith to Lorraine Schurz having weight 4.996 KG and distance 1.14 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-141 from Jean Ecklund to Gerald Cooney having weight 0.825 KG and distance 32.44 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-142 from Raymond Williamson to Hector Glenn having weight 0.79 KG and distance 10.28 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-143 from Johnathon Keske to Ching Johnson having weight 1.396 KG and distance 20.17 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-144 from Renee Jones to Juan Kinney having weight 2.542 KG and distance 19.34 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-145 from Roderick Mayhew to Joy Ramos having weight 2.022 KG and distance 11.7 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-146 from Gregory Salles to Jose Kelley having weight 4.778 KG and distance 23.29 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-147 from Ben Noori to Sandy Wilcox having weight 3.64 KG and distance 27.77 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-148 from Rae Gabbard to Joan Suarez having weight 0.749 KG and distance 23.07 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-149 from Mary Porat to Harold Mcguire having weight 3.524 KG and distance 15.63 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-150 from Craig Evans to Kristen Scott having weight 3.079 KG and distance 24.39 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-151 from Louise Howell to Roberto Brown having weight 4.681 KG and distance 29.28 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-152 from Bertie Davis to Donna Reese having weight 4.016 KG and distance 22.52 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-153 from Elizabeth Lebo to Christina Burke having weight 1.211 KG and distance 11.61 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-154 from Estela Clinton to Lisa Mallory having weight 1.453 KG and distance 3.18 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-155 from Dorothea Biffle to Teresa Weil having weight 2.797 KG and distance 8.75 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-156 from Pamela Martinez to Kimberly Mcmeen having weight 4.613 KG and distance 1.74 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-157 from Dustin Jackson to David Wick having weight 4.139 KG and distance 26.84 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-158 from Mark Gonzalez to Thomas Bernier having weight 1.019 KG and distance 5.59 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-159 from Mary Tucker to Chris Ryan having weight 1.104 KG and distance 31.15 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-160 from Mary Stafford to Bobby Priddy having weight 4.331 KG and distance 15.79 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-161 from Neil Donovan to Robert Broker having weight 2.821 KG and distance 4.45 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-162 from Barbara Orlando to Andy White having weight 3.243 KG and distance 10.08 KM from Delivery Terminal. 
+
+Drone-12 is delivering the parcel Parcel-163 from Sharon Gross to Lisa Juncaj having weight 2.975 KG and distance 29.96 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-164 from Kimberly Ramirez to Valarie March having weight 4.069 KG and distance 20.59 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-165 from Brian Martin to Jamie Springer having weight 2.772 KG and distance 7.31 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-166 from Danielle Maines to Linda David having weight 4.799 KG and distance 13.1 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-167 from David Douglas to Rosanna Mendenhall having weight 4.447 KG and distance 11.68 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-168 from Eleanor Browne to Reva Helms having weight 3.389 KG and distance 9.3 KM from Delivery Terminal. 
+
+Drone-15 is delivering the parcel Parcel-169 from Thurman Short to Adrian Vogel having weight 4.461 KG and distance 29.58 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-170 from Charles Bronson to Michael Cohn having weight 1.264 KG and distance 12.11 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-171 from Floyd Evans to Alice Ross having weight 1.543 KG and distance 8.95 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-172 from Dinorah Neal to Ernesto Heisler having weight 4.234 KG and distance 1.23 KM from Delivery Terminal. 
+
+Drone-16 is delivering the parcel Parcel-173 from Kristen Holmes to William Roberts having weight 2.387 KG and distance 34.94 KM from Delivery Terminal. 
+
+Drone-7 is delivering the parcel Parcel-174 from Betty Morrow to Evelyn Applebaum having weight 2.603 KG and distance 24.72 KM from Delivery Terminal. 
+
+Drone-19 is delivering the parcel Parcel-175 from Robert Mcgee to Jennifer Whitten having weight 2.086 KG and distance 30.52 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-176 from Adam Escamilla to Norma Dean having weight 0.62 KG and distance 1.72 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-177 from Michele Wright to Dennis Lighty having weight 4.267 KG and distance 10.77 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-178 from Patrick Carpenter to Bradley Pruchnik having weight 1.532 KG and distance 3.24 KM from Delivery Terminal. 
+
+Drone-2 is delivering the parcel Parcel-179 from Gwen Reynolds to Johanna Martin having weight 4.904 KG and distance 30.96 KM from Delivery Terminal. 
+
+Drone-13 is delivering the parcel Parcel-180 from Steve Hill to Rachel Ward having weight 1.009 KG and distance 17.34 KM from Delivery Terminal. 
+
+Drone-14 is delivering the parcel Parcel-181 from Eric Winfrey to Nathaniel Jones having weight 3.018 KG and distance 22.55 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-182 from Blanche Gagnon to Robert Johnson having weight 2.447 KG and distance 13.35 KM from Delivery Terminal. 
+
+Drone-6 is delivering the parcel Parcel-183 from Ira Ma to Jonathan Couture having weight 0.642 KG and distance 34.64 KM from Delivery Terminal. 
+
+Drone-18 is delivering the parcel Parcel-184 from James Greer to Lori Maffei having weight 3.685 KG and distance 17.59 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-185 from Latrice Faulk to Ann Brown having weight 0.746 KG and distance 6.8 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-186 from Megan Monk to Jessica Hebert having weight 1.484 KG and distance 0.58 KM from Delivery Terminal. 
+
+Drone-10 is delivering the parcel Parcel-187 from Palmer Rayford to Lisa Leon having weight 4.54 KG and distance 32.64 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-188 from Bertha Mart to Johnnie Cameron having weight 2.418 KG and distance 0.99 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-189 from Stephen Seitz to Judith Cullen having weight 4.26 KG and distance 1.29 KM from Delivery Terminal. 
+
+Drone-8 is delivering the parcel Parcel-190 from Mary Fuller to Timothy Sommer having weight 2.221 KG and distance 17.63 KM from Delivery Terminal. 
+
+Drone-17 is delivering the parcel Parcel-191 from Jesse Tonner to Elizabeth Mccall having weight 1.681 KG and distance 29.94 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-192 from Todd Cohen to Bernice Wriedt having weight 4.589 KG and distance 7.72 KM from Delivery Terminal. 
+
+Drone-1 is delivering the parcel Parcel-193 from Lydia Brzezowski to Roger Tesch having weight 0.619 KG and distance 33.79 KM from Delivery Terminal. 
+
+Drone-20 is delivering the parcel Parcel-194 from Robert Mcneil to Robert Puff having weight 0.663 KG and distance 23.03 KM from Delivery Terminal. 
+
+Drone-4 is delivering the parcel Parcel-195 from Celestine Hoes to Veronica Mcgraw having weight 2.637 KG and distance 16.92 KM from Delivery Terminal. 
+
+Drone-9 is delivering the parcel Parcel-196 from Paul Kubo to Robert Kim having weight 0.749 KG and distance 29.93 KM from Delivery Terminal. 
+
+Drone-3 is delivering the parcel Parcel-197 from Willie Barnett to Jamie Cunningham having weight 4.352 KG and distance 31.24 KM from Delivery Terminal. 
+
+Drone-5 is delivering the parcel Parcel-198 from Jewell Culotta to Hilton Cullars having weight 3.369 KG and distance 27.8 KM from Delivery Terminal. 
+
+Drone-11 is delivering the parcel Parcel-199 from Claude Claggett to Shawn Roberts having weight 4.146 KG and distance 8.49 KM from Delivery Terminal. 
+
+Stopping Drone with ID:Drone-13
+
+Stopping Drone with ID:Drone-12
+
+Stopping Drone with ID:Drone-18
+
+Stopping Drone with ID:Drone-7
+
+Stopping Drone with ID:Drone-15
+
+Stopping Drone with ID:Drone-8
+
+Stopping Drone with ID:Drone-11
+
+Stopping Drone with ID:Drone-14
+
+Stopping Drone with ID:Drone-4
+
+Stopping Drone with ID:Drone-19
+
+Stopping Drone with ID:Drone-2
+
+Stopping Drone with ID:Drone-16
+
+Stopping Drone with ID:Drone-20
+
+Stopping Drone with ID:Drone-17
+
+Stopping Drone with ID:Drone-10
+
+Stopping Drone with ID:Drone-6
+
+Stopping Drone with ID:Drone-9
+
+Stopping Drone with ID:Drone-5
+
+Stopping Drone with ID:Drone-1
+
+Stopping Drone with ID:Drone-3
+
+All 200 Parcels Successfully Delivered and All 20 drones are available again!!
